@@ -1,5 +1,5 @@
 global:
-  domain: teste.vkpr.platform.vee.codes
+  domain: kong.vkpr.platform.vee.codes
   secure: true
   provider: aws
 kong: 
