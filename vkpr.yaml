@@ -1,5 +1,5 @@
 global:
-  domain: vkpr.platform.vee.codes
+  domain: teste.vkpr.platform.vee.codes
   secure: true
   provider: aws
 kong: 
@@ -10,5 +10,5 @@ cert-manager:
   enabled: true
   email: veecode@veecode.com 
   issuer:
-    type: "staging"
+    type: "production"
     solver: "DNS01"
